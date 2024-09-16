@@ -1,6 +1,6 @@
 #!/bin/bash
 
-webdav_folder_name=Rishi
+webdav_folder_name=Jitendra
 ip_address=10.188.171.63
 
 
